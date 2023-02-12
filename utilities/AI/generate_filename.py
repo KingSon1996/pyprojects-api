@@ -9,6 +9,6 @@ def generate_filename():
     """
     all_chars = list(string.digits + string.ascii_letters)
     random.shuffle(all_chars)
-    filename = './ai-archive/images/' + ''.join(all_chars) + ".jpg"
+    filename = './pyprojects-api/images/' + ''.join(all_chars) + ".jpg"
 
     return filename
