@@ -1,7 +1,7 @@
 <h1 align="center">PyProjects API</h1>
 <p align="center">This will be the storage of my python projects that I want to deploy since my resources are limited.</p>
 <p align="center">
-  <a href="https://dog-emotion-ai.netlify.app/">https://dsbalico.pythonanywhere.com/</a>
+  <a href="https://dsbalico.pythonanywhere.com/">https://dsbalico.pythonanywhere.com/</a>
 </p>
 
 ## 💁🏼 About
